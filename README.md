@@ -1,1 +1,6 @@
-# House-price-prediction-using-Linear-Regression
+# House-price-prediction-using-Linear-Regression 
+
+Machine learning also provides better customer service and safe automobile system.The real estate market is a standout amongst the most focused regarding pricing and keeps fluctuating.
+This paper will help to predict the house prices based on various parameters. The users will be able to input the type of house they desire to buy and with the help of machine learning the house price predictor will display the estimated price of the desired house. The algorithms which we can use are linear regression. It performs a regression task. Regression models a target prediction value based on independent variables. It is an algorithm of supervised machine learning in which the predicted output is continuous with having a constant slope. The accuracy of the prediction is evaluated by checking the root square and root mean square error scores of the training model. 
+The test is performed after applying the required pre-processing methods and splitting the data into two parts. The correlation graphs show the variables' level of dependency. linear regression works by using the traditional slope-intercept form in which a and b are two coefficients that are elaborated “learn” and find the accurate predictions. This is how we predict the price of house using linear regression.
+
